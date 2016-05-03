@@ -1,0 +1,8 @@
+### data source config
+application.properties
+```
+spring.datasource.url=jdbc:mysql://localhost/test
+spring.datasource.username=root
+spring.datasource.password=
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+```
